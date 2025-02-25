@@ -1,5 +1,4 @@
 print("andria patsatsia")
-print()
 print("the ant and dove")
 print()
 print("   One hot day, an ant was searching for some water.")
