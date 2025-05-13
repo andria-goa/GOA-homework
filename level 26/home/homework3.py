@@ -8,9 +8,9 @@ num1 = int(input("შეიყვანეთ რიცხვი: "))
 num2 = int(input("შეიყვანეთ რიცხვი მეორეჯერ: "))
 
 if num2 > num1:
-    print("level up")  
+    print("level up")
 elif num1 > num2:
-    print("level down")  
+    print("level down")
 else:
     print("level updown")  
 
